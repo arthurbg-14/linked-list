@@ -121,6 +121,7 @@ int main() {
 	list.push_end(2);
 	list.push_end(3);
 	list.push(1, 5);
+	list.push_start(10)
 	list.print();
 	
     return 0;
